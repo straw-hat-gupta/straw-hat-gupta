@@ -1,7 +1,14 @@
 # 💫 About Me:
-I am a fifth-year Computer Science and Physics Major at The University of British Columbia.  I am passionate about using code to solve life big and small problems and enjoy employing software solutions where I can.<br><br>🌱 I’m currently learning more about machine learning and working with the APIs of apps that I regularly use to create solutions for problems I encounter.  <br>
+As a fifth-year Computer Science and Physics Major at The University of British Columbia, I am deeply passionate about leveraging code to address both the significant and the nuanced challenges we face in life. I thrive on creating and implementing software solutions that make a tangible difference.<br><br>
+
+## 🌱 I’m currently learning more about 
+- How I can use machine learning and NLP to create images. <br> 
+- Working with the APIs of apps that I regularly use to create solutions for problems I encounter.  <be>
 
 
+## ⚡ What I am Working On
+- A project mixing NLP and Machine Learning, focusing on generative models like DALL-E and computer vision to create my own AI. 
+- Right now, I'm diving into a fun project: building an Apple Watch app that'll sync up with SmartLife. The goal? To get all my smart home gadgets under control straight from my wrist. I started cooking this up because honestly, it's something I've been wanting for my own use. Plus, I'm eager to explore how I can use the watch's dial for various functions, making the interaction even cooler and more intuitive.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smarthgupta1) 
 
