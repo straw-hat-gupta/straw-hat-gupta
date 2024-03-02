@@ -4,11 +4,13 @@ As a fifth-year Computer Science and Physics Major at The University of British 
 ## 🌱 I’m currently learning more about 
 - How I can use machine learning and NLP to create images. <br> 
 - Working with the APIs of apps that I regularly use to create solutions for problems I encounter.  <br>
+- Embedded C programming with microcontrollers.
 
 
 ## ⚡ What I am Working On
 - A project mixing NLP and Machine Learning, focusing on generative models like DALL-E and computer vision to create my own AI. <br>
-- Right now, I'm diving into a fun project: Building a full-stack file-sharing project to help me stay connected between all my devices by allowing me to easily transfer files between them. The project prioritises speed and efficiency, so is using Golang for the backend, SQLite for the database, and React Native for the frontend. The application let the user transfer file between all their devices regardless of whether they are windows or apple. <br>
+- Right now, I'm diving into a fun project: Building a full-stack file-sharing project to help me stay connected between all my devices by allowing me to easily transfer files between them. The project prioritizes speed and efficiency using Golang for the backend, SQLite for the database, and React Native for the frontend. The application lets the user transfer files between all their devices regardless of whether they are Windows or Apple. <be>
+- A door unlocking and locking robot with a sensor that can recognize a badge and unlock the door. The project will also have a keypad and display to enter a passcode. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smarthgupta1) 
 
